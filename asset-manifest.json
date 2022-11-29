@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react_motion/static/css/main.9d5f1ae9.css",
+    "main.js": "/react_motion/static/js/main.a08ff7f4.js",
+    "static/media/home.png": "/react_motion/static/media/home.5ac352c3f5187a478609.png",
+    "static/media/portfolio8.jpg": "/react_motion/static/media/portfolio8.2777e4ad51224ad6c2b6.jpg",
+    "static/media/portfolio9.jpg": "/react_motion/static/media/portfolio9.cf1bb2ee87e7dd16545b.jpg",
+    "static/media/portfolio3.jpg": "/react_motion/static/media/portfolio3.af842ca385c02c572a23.jpg",
+    "static/media/portfolio10.jpg": "/react_motion/static/media/portfolio10.ce7f0f852d09fb04ed11.jpg",
+    "static/media/portfolio4.jpg": "/react_motion/static/media/portfolio4.266a424a9548c8aa4fcd.jpg",
+    "static/media/portfolio5.jpg": "/react_motion/static/media/portfolio5.d14db7a5237a67a07709.jpg",
+    "static/media/portfolio6.jpg": "/react_motion/static/media/portfolio6.3abf96678f7206e2b8fd.jpg",
+    "static/media/portfolio7.jpg": "/react_motion/static/media/portfolio7.4e628b5f08374382863f.jpg",
+    "static/media/pricing1.png": "/react_motion/static/media/pricing1.c7a3c733ddfb18e16a1d.png",
+    "static/media/pricing2.png": "/react_motion/static/media/pricing2.8b5337eb0ba19089a6c1.png",
+    "static/media/milestone-background.png": "/react_motion/static/media/milestone-background.4ed80b24e9b453afc55d.png",
+    "index.html": "/react_motion/index.html",
+    "main.9d5f1ae9.css.map": "/react_motion/static/css/main.9d5f1ae9.css.map",
+    "main.a08ff7f4.js.map": "/react_motion/static/js/main.a08ff7f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d5f1ae9.css",
+    "static/js/main.a08ff7f4.js"
+  ]
+}
